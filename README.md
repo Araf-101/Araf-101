@@ -1,3 +1,4 @@
+![logo](https://github.com/Araf-101/Araf-101/blob/main/git%20cover.jpg)
 <h1 align="center">Hi 👋, I'm Md. Arafat Hosen</h1>
 <h3 align="center">Data Analyst SQL, Python, and Tableau specialist. Building analytical models and generating visualizations for decision-making.</h3>
 
